@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3da6fc3-302e-438d-96e8-cdd9d4cb5000" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BASIC_INTERPRETER_CODE" beforeDir="false" afterPath="$PROJECT_DIR$/BASIC_INTERPRETER_CODE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASIC_INTERPRETER_CODE/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BASIC_INTERPRETER_CODE/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASIC_INTERPRETER_CODE/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/BASIC_INTERPRETER_CODE/test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BASIC_INTERPRETER_CODE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2b5TLKBenrpfLl5IGaWA3KFN9g2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Basic.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.LexerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.test.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/michaelangamarca/IdeaProjects/Basic_Interpreter&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Basic" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic" />
+      <module name="BASIC_INTERPRETER" />
+      <option name="PROGRAM_PARAMETERS" value="hello.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-f644763e9732-56b8144a" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3da6fc3-302e-438d-96e8-cdd9d4cb5000" name="Changes" comment="" />
+      <created>1705503883186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705503883186</updated>
+      <workItem from="1705503884915" duration="1503000" />
+      <workItem from="1705505751877" duration="3719000" />
+      <workItem from="1705596376866" duration="577000" />
+      <workItem from="1705934786189" duration="1072000" />
+      <workItem from="1705937927859" duration="7638000" />
+      <workItem from="1706027990776" duration="4948000" />
+      <workItem from="1706121285746" duration="352000" />
+      <workItem from="1706196367185" duration="19030000" />
+      <workItem from="1706541355653" duration="12954000" />
+      <workItem from="1706664364718" duration="1000" />
+      <workItem from="1706664520273" duration="4610000" />
+      <workItem from="1706712601483" duration="4501000" />
+      <workItem from="1706804900511" duration="88000" />
+      <workItem from="1706804993030" duration="1250000" />
+      <workItem from="1707066234801" duration="16926000" />
+      <workItem from="1707521400437" duration="15290000" />
+      <workItem from="1707577808581" duration="12986000" />
+      <workItem from="1707670099711" duration="16912000" />
+      <workItem from="1708803214610" duration="30031000" />
+      <workItem from="1709070214093" duration="8920000" />
+      <workItem from="1709337052768" duration="63000" />
+      <workItem from="1709337128667" duration="2061000" />
+      <workItem from="1709416862663" duration="35907000" />
+      <workItem from="1709645544600" duration="13117000" />
+      <workItem from="1710085085556" duration="12597000" />
+      <workItem from="1710196095508" duration="8809000" />
+      <workItem from="1710954987884" duration="15181000" />
+      <workItem from="1711126803639" duration="5261000" />
+      <workItem from="1711422191020" duration="26043000" />
+      <workItem from="1711815508322" duration="12028000" />
+      <workItem from="1712552410863" duration="29998000" />
+      <workItem from="1713283735612" duration="20224000" />
+      <workItem from="1713830892112" duration="14474000" />
+      <workItem from="1713893640404" duration="16543000" />
+      <workItem from="1713919005057" duration="4252000" />
+      <workItem from="1714355892910" duration="1352000" />
+      <workItem from="1716424370745" duration="996000" />
+      <workItem from="1717718960687" duration="17000" />
+      <workItem from="1721875645255" duration="137000" />
+      <workItem from="1723157824703" duration="1142000" />
+      <workItem from="1723159175225" duration="3175000" />
+      <workItem from="1725540689092" duration="1760000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
